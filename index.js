@@ -1,5 +1,13 @@
 // 2. import hello function
 
-const greetings = require('./greetings');
+// object destructuring
+const {hello, goodbye} = require('./greetings');
 
-greetings.goodbye(`Amelia`);
+const catFacts = require('cat-facts');
+
+let randomFact = catFacts.random();
+
+console.log(randomFact);
+
+// hello(`from ya mama`);
+// goodbye(`Amelia`);

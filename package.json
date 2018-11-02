@@ -1,0 +1,23 @@
+{
+  "name": "node-intro-funtimez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amelia678/node-funtimez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amelia678/node-funtimez/issues"
+  },
+  "homepage": "https://github.com/amelia678/node-funtimez#readme",
+  "dependencies": {
+    "cat-facts": "^1.0.2"
+  }
+}
